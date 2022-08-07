@@ -1,4 +1,4 @@
-### Olá, pessoas!Me chamo Amanda Camila. 👋
+### Olá, pessoas! Me chamo Amanda Camila. 👋
 
 - 🔭 Desenvolvedora Back-end formada na {Reprograma}.
 - 💬 Estou em transição de carreira, alvejando entrar no mercado da Técnologia como desenvolvedora. Sou uma profissional Proativa, tenho aptidões em liderança focada em gestão de projetos e pessoas.
@@ -19,6 +19,4 @@
   <a href="https://www.linkedin.com/in/amanda-auzier-a96028177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- ![Snake animation](https://github.com/mandy2407/mandy2407/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
