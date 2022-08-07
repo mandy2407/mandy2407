@@ -1,7 +1,7 @@
-### Olá, pessoas! Me chamo Amanda Camila. 👋
+### Olá, pessoas! Me chamo Amanda Auzier. 👋
 
 - 🔭 Desenvolvedora Back-end formada na {Reprograma};
-- 💬 Estou em transição de carreira, alvejando entrar no mercado da Técnologia como desenvolvedora. Sou uma profissional Proativa, tenho aptidões em liderança focada em gestão de projetos e pessoas;
+- 💬 Estou em transição de carreira, alvejando entrar no mercado da Tecnologia como desenvolvedora. Sou uma profissional Proativa, tenho aptidões em liderança focada em gestão de projetos e pessoas;
 - ⚡ Fun fact: Sou canhota e gosto muito de gatos.
 
 <div align="center">
